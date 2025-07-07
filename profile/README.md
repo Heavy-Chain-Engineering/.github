@@ -3,8 +3,10 @@
 <p align="center">
   <img src="/heavy-chain-logo.png" width="300" alt="Heavy Chain Engineering Logo" />
 </p>
+<div align="center"><strong>Simple. Well Designed. Delivered.</strong></div>
 
-**Simple. Well Designed. Delivered.**
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 We build software that ships. Fast. Clean. Done.
 
